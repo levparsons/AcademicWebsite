@@ -12,8 +12,8 @@ gallery_2025:
     image_path: field_2025_2.jpeg
     alt: "Description of photo"
     title: "Caption for photo"
-  - url: field_2025_3.jpeg
-    image_path: field_2025_3.jpeg
+  - url: field_2025_7.jpeg
+    image_path: field_2025_7.jpeg
     alt: "Description of photo"
     title: "Caption for photo"
   - url: field_2025_4.jpeg
@@ -22,6 +22,44 @@ gallery_2025:
     title: "Caption for photo"
   - url: field_2025_5.jpeg
     image_path: field_2025_5.jpeg
+    alt: "Description of photo"
+    title: "Caption for photo"
+gallery_2024:
+  - url: field_2024_1.jpeg
+    image_path: field_2024_1.jpeg
+    alt: "Description of photo"
+    title: "Caption for photo"
+  - url: field_2024_3.jpeg
+    image_path: field_2024_3.jpeg
+    alt: "Description of photo"
+    title: "Caption for photo"
+  - url: field_2024_7.jpeg
+    image_path: field_2024_7.jpeg
+    alt: "Description of photo"
+    title: "Caption for photo"
+  - url: field_2024_4.jpeg
+    image_path: field_2024_4.jpeg
+    alt: "Description of photo"
+    title: "Caption for photo"
+  - url: field_2024_5.jpeg
+    image_path: field_2024_5.jpeg
+    alt: "Description of photo"
+    title: "Caption for photo"
+gallery_2023:
+  - url: field_2023_1.jpeg
+    image_path: field_2023_1.jpeg
+    alt: "Description of photo"
+    title: "Caption for photo"
+  - url: field_2023_2.jpeg
+    image_path: field_2023_2.jpeg
+    alt: "Description of photo"
+    title: "Caption for photo"
+  - url: field_2023_5.jpeg
+    image_path: field_2023_5.jpeg
+    alt: "Description of photo"
+    title: "Caption for photo"
+  - url: field_2023_8.jpeg
+    image_path: field_2023_8.jpeg
     alt: "Description of photo"
     title: "Caption for photo"
 ---
@@ -38,6 +76,7 @@ magmas through time.
 </p>
 
 <h2>2024 — Wallowa Mountains, Oregon</h2>
+{% include gallery id="gallery_2024" %}
 <p>
 This field campaign was conducted in collaboration with the C2C (Cryptic Carbon to Climate) 
 research group, with the goal of collecting volcanic glasses from Columbia River Flood Basalt 
@@ -47,6 +86,7 @@ investigations into the volatile budgets and carbon cycling of large igneous pro
 </p>
 
 <h2>2023 — Steens Mountain, Oregon</h2>
+{% include gallery id="gallery_2034" %}
 <p>
 This reconnaissance campaign focused on the Steens Mountain section of the Columbia River 
 Flood Basalts, one of the earliest and most complete records of CRBG volcanism. Using sample 
