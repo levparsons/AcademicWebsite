@@ -76,8 +76,7 @@ magmas through time.
 </p>
 
 <h2>2024 — Wallowa Mountains, Oregon</h2>
-{% include gallery id="gallery_2024" %}
-<p>
+<img src="https://levparsons.github.io/AcademicWebsite/images/field_2024.png"  alt="Description of photo" style="width: 100%; max-width: 800px; display: block; margin: 20px auto;"><p>
 This field campaign was conducted in collaboration with the C2C (Cryptic Carbon to Climate) 
 research group, with the goal of collecting volcanic glasses from Columbia River Flood Basalt 
 Group dikes in the Wallowa Mountains. Sampling was carried out from a basecamp at Ice Lake, 
@@ -86,8 +85,7 @@ investigations into the volatile budgets and carbon cycling of large igneous pro
 </p>
 
 <h2>2023 — Steens Mountain, Oregon</h2>
-{% include gallery id="gallery_2024" %}
-<p>
+<img src="https://levparsons.github.io/AcademicWebsite/images/field_2023.png"  alt="Description of photo" style="width: 100%; max-width: 800px; display: block; margin: 20px auto;"><p>
 This reconnaissance campaign focused on the Steens Mountain section of the Columbia River 
 Flood Basalts, one of the earliest and most complete records of CRBG volcanism. Using sample 
 localities described in Moore et al. (2018) as a guide, we evaluated sites for future targeted 
