@@ -4,24 +4,24 @@ title: "Fieldwork"
 permalink: /fieldwork/
 author_profile: true
 gallery_2025:
-  - url: /images/field_2025_1.jpeg
-    image_path: /images/field_2025_1.jpeg
+  - url: field_2025_1.jpeg
+    image_path: field_2025_1.jpeg
     alt: "Description of photo"
     title: "Caption for photo"
-  - url: /images/field_2025_2.jpeg
-    image_path: /images/field_2025_2.jpeg
+  - url: field_2025_2.jpeg
+    image_path: field_2025_2.jpeg
     alt: "Description of photo"
     title: "Caption for photo"
-  - url: /images/field_2025_3.jpeg
-    image_path: /images/field_2025_3.jpeg
+  - url: field_2025_3.jpeg
+    image_path: field_2025_3.jpeg
     alt: "Description of photo"
     title: "Caption for photo"
-  - url: /images/field_2025_4.jpeg
-    image_path: /images/field_2025_4.jpeg
+  - url: field_2025_4.jpeg
+    image_path: field_2025_4.jpeg
     alt: "Description of photo"
     title: "Caption for photo"
-  - url: /images/field_2025_5.jpeg
-    image_path: /images/field_2025_5.jpeg
+  - url: field_2025_5.jpeg
+    image_path: field_2025_5.jpeg
     alt: "Description of photo"
     title: "Caption for photo"
 ---
