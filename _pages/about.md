@@ -9,8 +9,6 @@ author_profile: true
 I'm a planetary scientist fascinated by one of the biggest questions we can ask: <b>what does it take for a world to become habitable</b>, stay that way, or cease to be? My research takes me across the solar system: from <b>Mars</b>, where I model how ancient eruptions loaded the atmosphere with sulfur and left chemical fingerprints in surface rocks, to <b>Earth</b>, where I study how massive lava outpourings may have repeatedly reset the conditions for life, to <b>Titan</b>, where I recreate exotic icy minerals in the lab that might be forming on its surface right now. I pursue these questions through a combination of fieldwork, laboratory experiments, and computational modeling.
 </p>
 
-<img src="images/bio_photo1.jpeg" alt="Description of photo" style="width: 100%; max-width: 800px; display: block; margin: 20px auto;">
-
 <h2>My Research</h2>
 
 <p>
