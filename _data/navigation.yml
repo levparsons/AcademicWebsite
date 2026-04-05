@@ -10,7 +10,10 @@
 main:
   - title: "Publications"
     url: /publications/
-
+ 
+  - title: "Lab Skills"
+    url: /lab_skills/
+    
   # - title: "Fieldwork"
   #   url: /fieldwork/
 
