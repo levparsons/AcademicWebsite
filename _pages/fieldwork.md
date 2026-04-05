@@ -3,9 +3,31 @@ layout: archive
 title: "Fieldwork"
 permalink: /fieldwork/
 author_profile: true
+gallery_2025:
+  - url: /AcademicWebsite/images/field_2025_1.jpg
+    image_path: /AcademicWebsite/images/field_2025_1.jpg
+    alt: "Description of photo"
+    title: "Caption for photo"
+  - url: /AcademicWebsite/images/field_2025_2.jpg
+    image_path: /AcademicWebsite/images/field_2025_2.jpg
+    alt: "Description of photo"
+    title: "Caption for photo"
+  - url: /AcademicWebsite/images/field_2025_3.jpg
+    image_path: /AcademicWebsite/images/field_2025_3.jpg
+    alt: "Description of photo"
+    title: "Caption for photo"
+  - url: /AcademicWebsite/images/field_2025_4.jpg
+    image_path: /AcademicWebsite/images/field_2025_4.jpg
+    alt: "Description of photo"
+    title: "Caption for photo"
+  - url: /AcademicWebsite/images/field_2025_5.jpg
+    image_path: /AcademicWebsite/images/field_2025_5.jpg
+    alt: "Description of photo"
+    title: "Caption for photo"
 ---
 
 <h2>2025 — Washington, Idaho & Oregon</h2>
+{% include gallery id="gallery_2025" %}
 <p>
 This field campaign targeted the Columbia River Flood Basalt Group (CRBG), one of Earth's 
 best-preserved large igneous provinces, spanning its early, main, and waning eruptive phases 
