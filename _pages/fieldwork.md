@@ -4,24 +4,24 @@ title: "Fieldwork"
 permalink: /fieldwork/
 author_profile: true
 gallery_2025:
-  - url: /AcademicWebsite/images/field_2025_1.jpg
-    image_path: /AcademicWebsite/images/field_2025_1.jpg
+  - url: /AcademicWebsite/images/field_2025_1.jpeg
+    image_path: /AcademicWebsite/images/field_2025_1.jpeg
     alt: "Description of photo"
     title: "Caption for photo"
-  - url: /AcademicWebsite/images/field_2025_2.jpg
-    image_path: /AcademicWebsite/images/field_2025_2.jpg
+  - url: /AcademicWebsite/images/field_2025_2.jpeg
+    image_path: /AcademicWebsite/images/field_2025_2.jpeg
     alt: "Description of photo"
     title: "Caption for photo"
-  - url: /AcademicWebsite/images/field_2025_3.jpg
-    image_path: /AcademicWebsite/images/field_2025_3.jpg
+  - url: /AcademicWebsite/images/field_2025_3.jpeg
+    image_path: /AcademicWebsite/images/field_2025_3.jpeg
     alt: "Description of photo"
     title: "Caption for photo"
-  - url: /AcademicWebsite/images/field_2025_4.jpg
-    image_path: /AcademicWebsite/images/field_2025_4.jpg
+  - url: /AcademicWebsite/images/field_2025_4.jpeg
+    image_path: /AcademicWebsite/images/field_2025_4.jpeg
     alt: "Description of photo"
     title: "Caption for photo"
-  - url: /AcademicWebsite/images/field_2025_5.jpg
-    image_path: /AcademicWebsite/images/field_2025_5.jpg
+  - url: /AcademicWebsite/images/field_2025_5.jpeg
+    image_path: /AcademicWebsite/images/field_2025_5.jpeg
     alt: "Description of photo"
     title: "Caption for photo"
 ---
