@@ -14,8 +14,8 @@ main:
   - title: "Lab Skills"
     url: /lab_skills/
     
-  # - title: "Fieldwork"
-  #   url: /fieldwork/
+  - title: "Fieldwork"
+    url: /fieldwork/
 
   # - title: "Talks"
   #   url: /talks/    
