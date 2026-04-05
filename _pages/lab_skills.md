@@ -13,7 +13,7 @@ gallery_lab:
     alt: "Description of photo"
     title: "Caption for photo"
 ---
-<img src="https://levparsons.github.io/AcademicWebsite/images/lab_skills.png"  alt="Description of photo" style="width: 100%; max-width: 800px; display: block; margin: 20px auto;"><p>
+<img src="https://levparsons.github.io/AcademicWebsite/images/lab_skills.png"  alt="Description of photo" style="width: 100%; max-width: 800px; display: block; margin: 20px auto;">
 <ul>
   <li>
     <strong>Raman spectroscopy</strong> — Mineral identification, CO₂ quantification in 
