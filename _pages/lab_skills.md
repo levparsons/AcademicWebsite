@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "Lab Skills"
-permalink: /skills/
+permalink: /lab_skills/
 author_profile: true
 ---
 
