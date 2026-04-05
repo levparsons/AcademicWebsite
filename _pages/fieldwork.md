@@ -20,10 +20,10 @@ gallery_2025:
     image_path: field_2025_4.jpeg
     alt: "Description of photo"
     title: "Caption for photo"
-  - url: field_2025_5.jpeg
-    image_path: field_2025_5.jpeg
-    alt: "Description of photo"
-    title: "Caption for photo"
+#   - url: field_2025_5.jpeg
+#     image_path: field_2025_5.jpeg
+#     alt: "Description of photo"
+#     title: "Caption for photo"
 gallery_2024:
   - url: field_2024_1.jpeg
     image_path: field_2024_1.jpeg
@@ -41,10 +41,10 @@ gallery_2024:
     image_path: field_2024_4.jpeg
     alt: "Description of photo"
     title: "Caption for photo"
-  - url: field_2024_5.jpeg
-    image_path: field_2024_5.jpeg
-    alt: "Description of photo"
-    title: "Caption for photo"
+#   - url: field_2024_5.jpeg
+#     image_path: field_2024_5.jpeg
+#     alt: "Description of photo"
+#     title: "Caption for photo"
 gallery_2023:
   - url: field_2023_1.jpeg
     image_path: field_2023_1.jpeg
@@ -86,7 +86,7 @@ investigations into the volatile budgets and carbon cycling of large igneous pro
 </p>
 
 <h2>2023 — Steens Mountain, Oregon</h2>
-{% include gallery id="gallery_2034" %}
+{% include gallery id="gallery_2024" %}
 <p>
 This reconnaissance campaign focused on the Steens Mountain section of the Columbia River 
 Flood Basalts, one of the earliest and most complete records of CRBG volcanism. Using sample 
