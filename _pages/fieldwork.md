@@ -65,7 +65,8 @@ gallery_2023:
 ---
 
 <h2>2025 — Washington, Idaho & Oregon</h2>
-<img src="images/field_2025.png" alt="Description of photo" style="width: 100%; max-width: 800px; display: block; margin: 20px auto;"><p>
+<img src="images/field_2025.png" alt="Description of photo" style="width: 100%; max-width: 800px; display: block; margin: 20px auto;">
+<p>
 This field campaign targeted the Columbia River Flood Basalt Group (CRBG), one of Earth's 
 best-preserved large igneous provinces, spanning its early, main, and waning eruptive phases 
 (~17–8 Ma). We collected glassy samples from flow boundaries, dike margins, and vent deposits 
