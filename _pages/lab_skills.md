@@ -3,8 +3,17 @@ layout: archive
 title: "Lab Skills"
 permalink: /lab_skills/
 author_profile: true
+gallery_lab:
+  - url: lab_skills_1.jpeg
+    image_path: lab_skills_1.jpeg
+    alt: "Description of photo"
+    title: "Caption for photo"
+  - url: lab_skills_2.jpeg
+    image_path: lab_skills_2.jpeg
+    alt: "Description of photo"
+    title: "Caption for photo"
 ---
-
+{% include gallery id="gallery_lab" %}
 <ul>
   <li>
     <strong>Raman spectroscopy</strong> — Mineral identification, CO₂ quantification in 
