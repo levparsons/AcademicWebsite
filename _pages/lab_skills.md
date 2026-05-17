@@ -17,7 +17,7 @@ gallery_lab:
 <ul>
   <li>
     <strong>Raman spectroscopy</strong> — Mineral identification, CO₂ quantification in 
-    vapor-bubble-hosted melt inclusions, and nanolite detection in volcanic glasses.
+    vapor-bubbles hosted in melt inclusions, and nanolite detection in volcanic glasses.
   </li>
   <li>
     <strong>Petrographic microscopy</strong> — Transmitted and reflected light microscopy 
