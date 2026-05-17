@@ -23,6 +23,10 @@ gallery_lab:
     <strong>Petrographic microscopy</strong> — Transmitted and reflected light microscopy 
     for mineral identification and melt inclusion characterization.
   </li>
+    <li>
+    <strong>LED reflectance spectroscopy</strong> — Multispectral illumination of samples paired 
+      with microscopy to conduct reflectance spectroscopy of organic Titan-relevant materials.
+  </li>
   <li>
     <strong>Sample preparation</strong> — Rock crushing and sieving, mineral grain 
     separation, and mirror polishing to the micron scale for electron beam analysis.
