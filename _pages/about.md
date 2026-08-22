@@ -46,10 +46,7 @@ habitability, using Mars and Earth as complementary case studies.
 Beyond my dissertation, I'm a guest investigator with the NASA Dragonfly science team, 
 creating cryominerals in the lab and characterizing them at the microscale with a DragonCam 
 analog instrument to build a reference library for rapid interpretation of returned Titan 
-surface imagery. Together, these projects — spanning Mars, Earth, and Titan — build toward 
+surface imagery. Spanning Mars, Titan, and the Earth, these projects build toward 
 a unified understanding of how volcanic systems, from their mantle origins to their 
 atmospheric outputs, set the geochemical conditions that govern habitability.
-</p>
-<p>
-Beyond my dissertation, I'm a guest investigator with the NASA Dragonfly science team, creating cryominerals in the lab and characterizing them at the microscale with a DragonCam analog instrument to build a reference library for rapid interpretation of returned Titan surface imagery. Together, these projects — spanning Mars, Earth, and Titan — build toward a unified understanding of how volcanic systems, from their mantle origins to their atmospheric outputs, set the geochemical conditions that govern habitability.
 </p>
