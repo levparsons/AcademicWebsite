@@ -14,9 +14,42 @@ I'm a planetary scientist fascinated by one of the biggest questions we can ask:
 <h2>My Research</h2>
 
 <p>
-My dissertation investigates how large-scale volcanism shapes planetary geochemistry and habitability, using Mars and Earth as complementary case studies. On Mars, I use chemical modeling to reconstruct the sulfur content of primary mantle melts through time, translating those estimates into a record of volcanogenic sulfur released to the atmosphere over the planet's volcanic history (a key input for understanding how Mars' early atmosphere and potential for habitability evolved). A second Martian project takes a broader geochemical lens: motivated by geophysical models of the Tharsis mantle plume, I model how progressive remelting of a large, heterogeneous mantle source can produce the chronological geochemical and mineralogical trends observed in Martian meteorites and surface basalts today, linking deep interior dynamics to the surface record we can actually measure. On Earth, I am characterizing the redox evolution of the Columbia River Basalt Group across its full eruption history to constrain the redox state of its mantle source and disentangle the contributions of processes such as crustal contamination and sulfur degassing, with a comparative analysis against the North Atlantic and Central Atlantic Magmatic Provinces that places the CRBG within the broader context of large igneous province volcanism.
+My dissertation investigates how large-scale volcanism shapes planetary geochemistry and 
+habitability, using Mars and Earth as complementary case studies.
 </p>
 
+<ul>
+  <li>
+    <strong>Martian sulfur degassing:</strong> Using chemical modeling to reconstruct the 
+    sulfur content of primary mantle melts through time, translating those estimates into a 
+    record of volcanogenic sulfur released to Mars' atmosphere over the planet's volcanic 
+    history. This is a key input for understanding how Mars' early atmosphere and potential for 
+    habitability evolved.
+  </li>
+  <li>
+    <strong>Tharsis mantle plume Chemical and Physical Dynamics:</strong>  Motivated by geophysical models of the Tharsis 
+    mantle plume, I model how progressive remelting of a large, heterogeneous mantle source 
+    can produce the chronological geochemical and mineralogical trends observed in Martian 
+    meteorites and surface basalts today, linking deep interior dynamics to the surface record 
+    we can actually measure.
+  </li>
+  <li>
+    <strong>Columbia River Basalt Group:</strong> Characterizing the redox evolution of the 
+    CRBG across its full eruption history to constrain the redox state of its mantle source 
+    and disentangle the contributions of processes such as crustal contamination and sulfur 
+    degassing, with a comparative analysis against the North Atlantic and Central Atlantic 
+    Magmatic Provinces.
+  </li>
+</ul>
+
+<p>
+Beyond my dissertation, I'm a guest investigator with the NASA Dragonfly science team, 
+creating cryominerals in the lab and characterizing them at the microscale with a DragonCam 
+analog instrument to build a reference library for rapid interpretation of returned Titan 
+surface imagery. Together, these projects — spanning Mars, Earth, and Titan — build toward 
+a unified understanding of how volcanic systems, from their mantle origins to their 
+atmospheric outputs, set the geochemical conditions that govern habitability.
+</p>
 <p>
 Beyond my dissertation, I'm a guest investigator with the NASA Dragonfly science team, creating cryominerals in the lab and characterizing them at the microscale with a DragonCam analog instrument to build a reference library for rapid interpretation of returned Titan surface imagery. Together, these projects — spanning Mars, Earth, and Titan — build toward a unified understanding of how volcanic systems, from their mantle origins to their atmospheric outputs, set the geochemical conditions that govern habitability.
 </p>
