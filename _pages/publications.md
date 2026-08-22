@@ -13,10 +13,10 @@ author_profile: true
     <a href="https://doi.org/10.1016/j.icarus.2025.116491" target="_blank">https://doi.org/10.1016/j.icarus.2025.116491</a>
   </li>
   <li>
-    Parsons, L., Núñez, J.I., & Czaplinski, E.C. (in prep). Multispectral characterization of Titan analog surface materials at the microscale.
+    Parsons, L., Citron, R., & Black, B. (in final prep for submission). Tharsis extraction as a driver for temporal variations in mantle-derived magmas and their source.
   </li>
   <li>
-    Parsons, L., Citron, R., & Black, B. (in prep). Tharsis extraction as a driver for temporal variations in mantle-derived magmas and their source.
+    Parsons, L., Núñez, J.I., & Czaplinski, E.C. (in prep). Multispectral characterization of Titan analog surface materials at the microscale.
   </li>
   <li>
     Parsons, L., & Black, B. (in prep). The redox evolution of the Columbia River Flood Basalt large igneous province.
