@@ -39,6 +39,9 @@ gallery_lab:
     <strong>Cryostage microscopy</strong> — Optical microscopy of samples under controlled 
     cryogenic conditions.
   </li>
+    <li>
+    <strong>Thermodynamic Modeling</strong> — MELTS and MELTS-style models to model equilibrium conditions of mantle melting and crystallization.
+  </li>
   <li>
     <strong>Python</strong> — Data reduction, assembly, and visualization for geochemical 
     datasets.
