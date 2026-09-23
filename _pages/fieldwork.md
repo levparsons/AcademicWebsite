@@ -64,6 +64,11 @@ gallery_2023:
     title: "Caption for photo"
 ---
 
+<h2>2026 — The Faroe Islands</h2>
+<p>
+This field campaign targeted the Faroe Island Basalt Group (FIBG), a sub-province of the North Atlantic Igneous Province (NAIP), and was supported by GSA's Lipman Graduate Student Research Award. The goal of this field work was to hunt down volcanic glasses from this LIP for Fe-XANES. The iron oxidation states that we get from this LIP, along with those from CAMP, will provide a useful point of comparison for the iron oxidation state data from the CRBG.
+</p>
+
 <h2>2025 — Washington, Idaho & Oregon</h2>
 <img src="https://levparsons.github.io/AcademicWebsite/images/field_2025.png"  alt="Description of photo" style="width: 100%; max-width: 800px; display: block; margin: 20px auto;">
 <p>
