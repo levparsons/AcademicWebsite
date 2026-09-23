@@ -19,7 +19,7 @@ author_profile: true
     Parsons, L., Núñez, J.I., & Czaplinski, E.C. (in prep). Multispectral characterization of Titan analog surface materials at the microscale.
   </li>
   <li>
-    Parsons, L., & Black, B. (in prep). The redox evolution of the Columbia River Flood Basalt large igneous province.
+    Parsons, L., Moussallam, Y., & Black, B. (in prep). The redox evolution of the Columbia River Flood Basalt large igneous province.
   </li>
 </ul>
 
