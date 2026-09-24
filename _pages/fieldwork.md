@@ -65,12 +65,13 @@ gallery_2023:
 ---
 
 <h2>2026 — The Faroe Islands</h2>
+<img src="https://levparsons.github.io/AcademicWebsite/images/field_2026.png"  alt="Photos from the Faroes" style="width: 100%; max-width: 800px; display: block; margin: 20px auto;">
 <p>
 This field campaign targeted the Faroe Islands Basalt Group (FIBG), a sub-province of the North Atlantic Igneous Province (NAIP), and was supported by GSA's Lipman Graduate Student Research Award. The goal of this field work was to hunt down volcanic glasses from this LIP for Fe-XANES analysis. The iron oxidation states and sulfur contents that we get from this LIP, along with those from CAMP, will provide a useful point of comparison for the iron oxidation state data from the CRBG and allow us to disentangle signatures from the source or near surface processing.
 </p>
 
 <h2>2025 — Washington, Idaho & Oregon</h2>
-<img src="https://levparsons.github.io/AcademicWebsite/images/field_2025.png"  alt="Description of photo" style="width: 100%; max-width: 800px; display: block; margin: 20px auto;">
+<img src="https://levparsons.github.io/AcademicWebsite/images/field_2025.png"  alt="Photo collage from the Northwest USA style="width: 100%; max-width: 800px; display: block; margin: 20px auto;">
 <p>
 This field campaign targeted the Columbia River Flood Basalt Group (CRBG), one of Earth's 
 best-preserved large igneous provinces, spanning its early, main, and waning eruptive phases 
@@ -81,7 +82,7 @@ magmas through time.
 </p>
 
 <h2>2024 — Wallowa Mountains, Oregon</h2>
-<img src="https://levparsons.github.io/AcademicWebsite/images/field_2024.png"  alt="Description of photo" style="width: 100%; max-width: 800px; display: block; margin: 20px auto;">
+<img src="https://levparsons.github.io/AcademicWebsite/images/field_2024.png"  alt="Photo collage of the Wallowa Mountais" style="width: 100%; max-width: 800px; display: block; margin: 20px auto;">
 <p>
 This field campaign was conducted in collaboration with the C2C (Cryptic Carbon to Climate) 
 research group, with the goal of collecting volcanic glasses from Columbia River Flood Basalt 
@@ -91,7 +92,7 @@ investigations into the volatile budgets and carbon cycling of large igneous pro
 </p>
 
 <h2>2023 — Steens Mountain, Oregon</h2>
-<img src="https://levparsons.github.io/AcademicWebsite/images/field_2023.png"  alt="Description of photo" style="width: 100%; max-width: 800px; display: block; margin: 20px auto;">
+<img src="https://levparsons.github.io/AcademicWebsite/images/field_2023.png"  alt="Photo collage of Steens Mountain" style="width: 100%; max-width: 800px; display: block; margin: 20px auto;">
 <p>
 This reconnaissance campaign focused on the Steens Mountain section of the Columbia River 
 Flood Basalts, one of the earliest and most complete records of CRBG volcanism. Using sample 
