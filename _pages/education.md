@@ -33,7 +33,7 @@ Gas, and Rotational Velocity in Disk Galaxies</em>
     <strong>Lipman Research Award</strong>, The Geological Society of America (2026)
   </li>
   <li>
-    <strong>NASA Dragonfly Guest Investigator</strong>, The Johns Hopkins Applied Physics Laboratory (2024-2026)
+    <strong>NASA Dragonfly Guest Investigator</strong>, The Johns Hopkins University Applied Physics Laboratory (2024-2026)
   </li>
   <li>
     <strong>GEM Fellowship</strong>, The National GEM Consortium (2024-2027)
